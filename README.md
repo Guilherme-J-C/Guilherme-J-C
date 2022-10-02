@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Guilherme-J-C
 - 👀 I’m interested in develop codes
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Guilherme-J-C/Guilherme-J-C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
