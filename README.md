@@ -19,6 +19,7 @@ Olá me chamo Guilherme Jesus e gosto muito de programação! Sou iniciante nest
 ![Snake animation](https://github.com/Guilherme-J-C/Guilherme-J-C/blob/output/github-contribution-grid-snake.svg)    
 
 <h4>Estatísticas:</h4>
+
 <div>
 <a href="https://github.com/Guilherme-J-C">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-J-C&layout=compact&langs_count=7&theme=dracula"/>
