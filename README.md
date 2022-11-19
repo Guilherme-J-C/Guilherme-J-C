@@ -6,6 +6,8 @@
 <a href="https://www.linkedin.com/in/Guilherme-Jesus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<h2>Hello!</h2>
+Olá me chamo Guilherme Jesus e gosto muito de programação! Sou iniciante neste universo, mais tó procurando aprender mais e mais!
 <div>
 <a href="https://github.com/Guilherme-J-C">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-J-C&layout=compact&langs_count=7&theme=dracula"/>
