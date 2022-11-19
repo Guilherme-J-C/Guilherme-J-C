@@ -12,6 +12,10 @@ Olá me chamo Guilherme Jesus e gosto muito de programação! Sou iniciante nest
 <p align="middle">
 <img src ="https://media.giphy.com/media/lllcAYdLnN4gYb0h1H/giphy.gif"/>
 </p>
+
+<h3>🖥️ Tecnologias e Ferramentas:</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
 <div>
 <a href="https://github.com/Guilherme-J-C">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-J-C&layout=compact&langs_count=7&theme=dracula"/>
