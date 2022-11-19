@@ -8,6 +8,8 @@
 
 <h2>Hello!</h2>
 Olá me chamo Guilherme Jesus e gosto muito de programação! Sou iniciante neste universo, mais tó procurando aprender mais e mais!
+
+<iframe src="https://giphy.com/embed/xebOoxouppcGs" width="480" height="416" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hackers-movie-world-xebOoxouppcGs">via GIPHY</a></p>
 <div>
 <a href="https://github.com/Guilherme-J-C">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-J-C&layout=compact&langs_count=7&theme=dracula"/>
