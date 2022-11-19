@@ -1,10 +1,10 @@
 <!DOCTYPE html
 <html> lang="pt-br">
-	<head>
-		<title>Segundo Projeto</title>
-	</head>
-	<body><h1>Segundo Projeto</h1><br>
-	</body>
+<head>
+	<title>Segundo Projeto</title>
+</head>
+<body><h1>Segundo Projeto</h1><br>
+</body>
 </html>
 
 
