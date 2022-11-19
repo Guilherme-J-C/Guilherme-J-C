@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @Guilherme-J-C
+<!DOCTYPE html
+<html> lang="pt-br">
+	<head>
+		<title>Segundo Projeto</title>
+	</head>
+	<body><h1>Segundo Projeto</h1><br>
+	</body>
+</html>
 
 
 <a href = "guilhermejcosta#63@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
