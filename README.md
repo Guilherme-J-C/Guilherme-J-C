@@ -10,7 +10,7 @@
 Olá me chamo Guilherme Jesus e gosto muito de programação! Sou iniciante neste universo, mais tó procurando aprender mais e mais!
 
 <p align="middle">
-<img src ="https://media.giphy.com/media/lMZG968WfKZrTFaDtU/giphy.gif"/>
+<img src ="https://media.giphy.com/media/lllcAYdLnN4gYb0h1H/giphy.gif"/>
 </p>
 <div>
 <a href="https://github.com/Guilherme-J-C">
