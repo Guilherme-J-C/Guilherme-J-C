@@ -8,8 +8,9 @@
 
 <h2>Hello!</h2>
 Olá me chamo Guilherme Jesus e gosto muito de programação! Sou iniciante neste universo, mais tó procurando aprender mais e mais!
-
+<p align="middle">
 <img src ="https://media.giphy.com/media/XTAqdwCL2oEus/giphy.gif"/>
+</p>
 <div>
 <a href="https://github.com/Guilherme-J-C">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-J-C&layout=compact&langs_count=7&theme=dracula"/>
