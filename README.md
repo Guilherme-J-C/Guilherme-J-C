@@ -7,7 +7,7 @@
 </div>
 
 <h2>Hello!</h2>
-Olá me chamo Guilherme Jesus e gosto muito de programação! Sou iniciante neste universo, mais tó procurando aprender mais e mais!
+>Olá me chamo Guilherme Jesus e gosto muito de programação! Sou iniciante neste universo, mais tó procurando aprender mais e mais!
 
 <p align="middle">
 <img src ="https://media.giphy.com/media/lllcAYdLnN4gYb0h1H/giphy.gif"/>
